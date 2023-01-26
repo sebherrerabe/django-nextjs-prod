@@ -1,0 +1,13 @@
+# Django specific files
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media/
+
+# Next.js specific files
+app/frontend/node_modules/
+app/frontend/.next/
+app/.env
