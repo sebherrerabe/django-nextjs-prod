@@ -13,7 +13,7 @@ This repository contains a production-ready boilerplate for a Django-Next.js hyb
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/[username]/django-nextjs-boilerplate.git`
+1. Clone the repository: `git clone https://github.com/sebherrerabe/django-nextjs-prod.git`
 2. Link the repository to your Railway account and set the following environment variables in the app settings:
    - RAILWAY_STATIC_URL (your domain)
    - DJANGO_DEBUG=False
