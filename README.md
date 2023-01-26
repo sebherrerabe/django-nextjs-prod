@@ -13,10 +13,7 @@ This repository contains a production-ready boilerplate for a Django-Next.js hyb
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/[username]/django-nextjs-boilerplate.git`
-2. Build the Docker image: `docker build -t django-nextjs .`
-3. Run the Docker container: `docker run -p 8000:8000 django-nextjs`
-4. Visit `http://localhost:8000` in your browser
+1. Clone the repository: `git clone git@github.com:sebherrerabe/django-nextjs-prod.git`
 
 ## Additional Resources
 
